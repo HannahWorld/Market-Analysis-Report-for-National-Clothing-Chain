@@ -9,7 +9,7 @@ Sales have been flat for an online national clothing chain. They want to lure lo
 I conducted an analysis to determine the best product to advertise to each customer.
 
 The project uses a variety of data sources, including
-# US Census Bureau
+## US Census Bureau
 
 * Average Income
 * Location
