@@ -64,6 +64,10 @@ Created visualizations to make sense of the data.
 
   ![Average Rating vs. Return Rate image](https://github.com/HannahWorld/Market-Analysis-Report-for-National-Clothing-Chain/blob/main/Customer%20Rating_Return%20Rate%20image.jpg)
 
+* Customers in the following states/district have the highest average incomes:
+
+......a) District of Columbia
+......b) Maryland
 
 
 
