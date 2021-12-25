@@ -66,8 +66,8 @@ Created visualizations to make sense of the data.
 
 * Customers in the following states/district have the highest average incomes:
 
-......a) District of Columbia
-......b) Maryland
+  - a) District of Columbia
+  - b) Maryland
 
 
 
