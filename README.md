@@ -58,8 +58,7 @@ Created visualizations to make sense of the data.
 
 * There is a **strong positive linear relationship** between **average sales** and **average income**.
 
-  ![Average Sales vs. Average Income image](https://github.com/HannahWorld/Market-Analysis-Report-for-National-Clothing-  
-    Chain/blob/main/Average%20sales_Average%20income%20image.jpg)
+  ![Average Sales vs. Average Income image](https://github.com/HannahWorld/Market-Analysis-Report-for-National-Clothing- Chain/blob/main/Average%20sales_Average%20income%20image.jpg)
 
 * There is a strong negative linear relationship between **customer rating** and **return rate**.
 
