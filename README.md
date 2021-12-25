@@ -81,6 +81,7 @@ Created visualizations to make sense of the data.
 * References: 
 
   - [Udacity](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331)
+  - [Average Annual State Temperatures](https://www.currentresults.com/Weather/US/average-annual-state-temperatures.php)
 
 
 
