@@ -83,7 +83,7 @@ Created visualizations to make sense of the data.
   - [Udacity](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331)
   - [Average Annual State Temperatures](https://www.currentresults.com/Weather/US/average-annual-state-temperatures.php)
 
-
+## View the Power BI Report: [Market Analysis Report for National Clothing Chain](https://app.powerbi.com/view?r=eyJrIjoiMWI2ZDZmMzgtNzhhMi00NGZiLTljY2QtZjk1OWE2ZjM5ZDg4IiwidCI6ImFmN2JlMmJhLTU1OGEtNDlhMC1hYTQ2LWYxNzM0ZDJlN2UyNCJ9&embedImagePlaceholder=true&pageName=ReportSection)
 
 
 
