@@ -74,7 +74,7 @@ Created visualizations to make sense of the data.
 
 ## Recommendation
 
-  - Since most of the customers are in the low-medium income category, the products taht are low in price should be advertised the most.
+  - Since most of the customers are in the low-medium income category, the products that are low in price should be advertised the most.
   - D. C. and some U.S. states, such as Massachusetts and Washington, have the highest average customer incomes. Consider targeting these states with pricy products.
   - States, such as California, New York, Texas and Florida, have the largest populations so it’s necessary to market the right products to these states.
 
