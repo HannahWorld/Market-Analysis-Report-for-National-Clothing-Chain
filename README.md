@@ -57,6 +57,7 @@ Created visualizations to make sense of the data.
 ## Summary
 
 * There is a **strong positive linear relationship** between **average sales** and **average income**.
+
 ![image](https://user-images.githubusercontent.com/53662557/147374957-9b53a8c6-8f59-43ef-8402-ada36e95f14d.png)
 
 
