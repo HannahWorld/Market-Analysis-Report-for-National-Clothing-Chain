@@ -72,7 +72,7 @@ Created visualizations to make sense of the data.
   - Washington
   - New Hampshire
 
-* Recommendation
+## Recommendation
 
   - Since most of the customers are in the low-medium income category, the products taht are low in price should be advertised the most.
   - D. C. and some U.S. states, such as Massachusetts and Washington, have the highest average customer incomes. Consider targeting these states with pricy products.
