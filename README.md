@@ -78,6 +78,8 @@ Created visualizations to make sense of the data.
   - D. C. and some U.S. states, such as Massachusetts and Washington, have the highest average customer incomes. Consider targeting these states with pricy products.
   - States, such as California, New York, Texas and Florida, have the largest populations so it’s necessary to market the right products to these states.
 
+* References: https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331![image](https://user-images.githubusercontent.com/53662557/147375416-bd02fb1e-7900-4305-8451-53b88dbca024.png)
+
 
 
 
