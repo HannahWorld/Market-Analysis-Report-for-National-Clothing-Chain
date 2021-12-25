@@ -41,6 +41,10 @@ The project uses a variety of data sources, including
 * Formatted, transformed, and cleaned the data in Power Query.
 * Set up table relationships, following a star schema.
 * The **purchase list** contains all sales transaction dates and corresponding transaction amounts. I unpivoted the data (flattened the data) to put it in a matrix format (all dates are in one column and all transaction amounts are in a different column).
+* Additional data: Imported weather data into Power BI.
+* Created a new table called **Regression Table** from the customer list to summarize the average customer sales by state. Set up calculated columns and created DAX measures to predict customer incomes (set up sales as x and used y = mx + b to predict customer income).
+
+
 
 
 
