@@ -37,7 +37,7 @@ The project uses a variety of data sources, including
 
 ## Data Processing
 
-* Imported the ** census data, customer list, purchase list and state list into Power BI **.
+* Imported the **census data, customer list, purchase list and state list into Power BI**.
 
 
 
