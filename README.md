@@ -44,6 +44,26 @@ The project uses a variety of data sources, including
 * Additional data: Imported weather data into Power BI.
 * Created a new table called **Regression Table** from the customer list to summarize the average customer sales by state. Set up calculated columns and created DAX measures to predict customer incomes (set up sales as x and used y = mx + b to predict customer income).
 
+## Data Analysis | Visualization
+
+Created visualizations to make sense of the data.
+
+* Created a scatterplot with **r²** value to show a positive relationship between **average incomes** and **average sales by state**.
+* Created a calculated column in the **customer list** table for **predicted customer incomes**.
+* Categorized the predicted customer incomes into ranges using DAX to determine the best product fit for each customer (histogram on **Customer Insights** tab).
+* Visualized household income distribution across the U.S. using a heatmap.
+* Created a scatter plot with **r²** value to show a negative relationship between **customer rating** and **product return rate**.
+
+## Summary
+
+* There is a **strong positive linear relationship** between **average sales** and **average income**.
+![image](https://user-images.githubusercontent.com/53662557/147374957-9b53a8c6-8f59-43ef-8402-ada36e95f14d.png)
+
+
+
+
+
+
 
 
 
