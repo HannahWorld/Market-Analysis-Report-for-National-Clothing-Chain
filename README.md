@@ -33,7 +33,7 @@ The project uses a variety of data sources, including
 
 ## Additional Data
 
-* Weather
+* Average Annual State Temperatures
 
 ## Data Processing
 
