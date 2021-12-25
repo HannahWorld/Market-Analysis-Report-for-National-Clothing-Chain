@@ -16,6 +16,29 @@ The project uses a variety of data sources, including
 * Population
 * Industry
 
+## Business Data
+
+* Product Inventory
+* Product Prices
+* Customer Rating
+* Product Return Rate
+
+## Customer Data
+
+* Customer ID
+* Names
+* Location
+* Date of Birth
+* Purchase History
+
+## Additional Data
+
+* Weather
+
+## Data Processing
+
+* Imported the ** census data, customer list, purchase list and state list into Power BI **.
+
 
 
 
