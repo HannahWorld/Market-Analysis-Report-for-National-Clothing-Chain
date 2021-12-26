@@ -60,7 +60,7 @@ Created visualizations to make sense of the data.
 
   ![Average Sales vs. Average Income image](https://github.com/HannahWorld/Market-Analysis-Report-for-National-Clothing-Chain/blob/main/Average%20sales_Average%20income%20image.jpg)
 
-* According to statistical analysis, there is a strong negative linear relationship between **customer rating** and **return rate** so focus on advertising products with medium to high customer ratings.
+* According to statistical analysis, there is a strong negative linear relationship between **customer rating** and **return rate**. Focus on advertising products with medium to high customer ratings as the the higher the customer ratings are, the lower the return rates will be.
 
   ![Average Rating vs. Return Rate image](https://github.com/HannahWorld/Market-Analysis-Report-for-National-Clothing-Chain/blob/main/Customer%20Rating_Return%20Rate%20image.jpg)
 
